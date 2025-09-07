@@ -1,6 +1,6 @@
 ## 👨‍💻 Almog's Portfolio
 
-Hi, I’m Almog – a 3rd year Computer Science student 
+Hi, I’m Almog – a 3rd year Computer Science student, 
 This portfolio highlights some of my key projects and collaborations.
 
 ## 🚀 Featured Projects
