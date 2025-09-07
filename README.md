@@ -15,5 +15,5 @@ This portfolio highlights some of my key projects and collaborations.
 
 ## 📫 Contact
 - 📧 Email: almog.dinur@gmail.com  
-- 💼 LinkedIn: [[Your LinkedIn](https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/almog-dinur-6b5341325))  
+- 💼 LinkedIn: [[LinkedIn]([https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/almog-dinur-6b5341325](https://www.linkedin.com/in/almog-dinur-6b5341325/)))  
 - 🌐 GitHub: [Your GitHub](https://github.com/yourusername) 
