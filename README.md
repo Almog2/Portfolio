@@ -6,8 +6,8 @@ This portfolio highlights some of my key projects and collaborations.
 ## 🚀 Featured Projects
 
 ### 🔹 Afeka College RAG Bot
-[🔗 View Repository](https://github.com/tomern0305/AfekQA---Q-A-Bot)  
-*Collaborative project with [Tomern0305](https://github.com/tomern0305)*  
+[🔗 View Repository](https://github.com/Almog2/AfekQA---Q-A-Bot)  
+*Collaborative project with [Tomern0305](https://github.com/tomern0305),[MishelSvirsky](https://github.com/MishelSvirsky),[Itamar-Hadad](https://github.com/Itamar-Hadad),[Vodkolav](https://github.com/vodkolav)*   
 
 - Retrieval-Augmented Generation (RAG) chatbot  
 - Built with **n8n** + **OpenAI models**  
