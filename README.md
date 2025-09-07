@@ -1,2 +1,19 @@
-# Portfolio
-# 👨‍💻 Almog's Portfolio
+## 👨‍💻 Almog's Portfolio
+
+Hi, I’m Almog – a 3rd year Computer Science student 
+This portfolio highlights some of my key projects and collaborations.
+
+## 🚀 Featured Projects
+
+### 🔹 Afeka College RAG Bot
+[🔗 View Repository](https://github.com/tomern0305/AfekQA---Q-A-Bot)  
+*Collaborative project with [Tomern0305](https://github.com/tomern0305)*  
+
+- Retrieval-Augmented Generation (RAG) chatbot  
+- Built with **n8n** + **OpenAI models**  
+- Interfaces: Telegram  
+
+## 📫 Contact
+- 📧 Email: almog.dinur@gmail.com  
+- 💼 LinkedIn: [[Your LinkedIn](https://linkedin.com/in/yourprofile](http://www.linkedin.com/in/almog-dinur-6b5341325))  
+- 🌐 GitHub: [Your GitHub](https://github.com/yourusername) 
