@@ -32,7 +32,7 @@
 
 <p>
   <a href="https://github.com/Almog2/AfekQA---Q-A-Bot">
-    <img src="https://img.shields.io/badge/View-Repository-black?logo=github" alt="View AfekQA Repository"/>
+    <img src="https://img.shields.io/badge/View-AfekQA-black?logo=github" alt="View AfekQA Repository"/>
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Built with:
 
 <p>
   <a href="NEXTSTEP_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/View-Repository-black?logo=github" alt="View NextStep Repository"/>
+    <img src="https://img.shields.io/badge/View-NextStep-black?logo=github" alt="View NextStep Repository"/>
   </a>
 </p>
 
