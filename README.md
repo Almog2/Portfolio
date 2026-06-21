@@ -49,9 +49,6 @@
 `RAG` `n8n` `OpenAI` `Telegram Bot API`
 
 #### Team
-
-Built with:
-
 * [Tomer](https://github.com/tomern0305)
 * [Mishel Svirsky](https://github.com/MishelSvirsky)
 * [Itamar Hadad](https://github.com/Itamar-Hadad)
@@ -82,9 +79,6 @@ Built with:
 `React` `Vite` `FastAPI` `Python` `Firebase` `OpenAI` `Base44` `Tailwind CSS`
 
 #### Team
-
-Built with:
-
 * [Maayan Shani](https://github.com/Maayan-Shani)
 * [Oranta36](https://github.com/Oranta36)
 * [Rotem Gilboa](https://github.com/RotemGilboa2)
