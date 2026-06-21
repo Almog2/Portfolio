@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Almog Dinur — Portfolio</h1>
 
 <p align="center">
-  <b>Computer Science Student | Software Development | AI & Backend</b>
+  <b>Computer Science Student | Software Development</b>
 </p>
 
 <p align="center">
@@ -89,30 +89,4 @@ Built with:
 * [Oranta36](https://github.com/Oranta36)
 * [Rotem Gilboa](https://github.com/RotemGilboa2)
 
----
 
-## 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:almog.dinur@gmail.com"><b>Email</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/almog-dinur-6b5341325/"><b>LinkedIn</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Almog2"><b>GitHub</b></a>
-</p>
