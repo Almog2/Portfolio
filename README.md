@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:almog.dinur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-almog.dinur@gmail.com-red?logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/almog-dinur-6b5341325/">
     <img src="https://img.shields.io/badge/LinkedIn-Almog%20Dinur-blue?logo=linkedin" alt="LinkedIn"/>
